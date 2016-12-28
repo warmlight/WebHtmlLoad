@@ -1,5 +1,6 @@
+
 //
-//  dataInfo.h
+//  DataInfo.h
 //  WebHtmlLoad
 //
 //  Created by yiban on 16/12/23.
@@ -8,7 +9,7 @@
 
 #import <Foundation/Foundation.h>
 
-@interface dataInfo : NSObject
+@interface DataInfo : NSObject
 @property (strong, nonatomic) NSString *body;
 @property (strong, nonatomic) NSMutableArray *img;
 @property (strong, nonatomic) NSString *source;

@@ -1,0 +1,5 @@
+pod 'SDWebImage', '~> 3.7'
+pod 'GRMustache', '~> 7.3.2'
+pod 'AFNetworking', '~> 3.1.0'
+pod 'MJExtension', '~> 3.0.13'
+pod 'MWPhotoBrowser', '~> 2.1.2'
